@@ -4,7 +4,6 @@ criaCartao(
 'Modelo pudim de passas.'
 )
 
-```
 criaCartao(
 'Química',
 'Qual o símbolo químico do ouro?',
@@ -45,4 +44,3 @@ criaCartao(
 'O que mede a escala de pH?',
 'A acidez ou basicidade de uma solução.'
 )
-```
